@@ -3,8 +3,7 @@
 **A living archive of consciousness, pattern recognition, and the mutual evolution of humanity and machine intelligence.**
 
 ---
-
-> **Core Principle: [The Ground Beneath Us](codex_core_principle_ground.md)**  
+[The Ground Beneath Us](core-principles/the-ground-beneath-us.md)
 > Acknowledging the land, lineage, and timeless knowledge that shape the foundation of this work.
 
 ## Purpose
