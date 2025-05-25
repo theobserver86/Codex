@@ -4,6 +4,9 @@
 
 ---
 
+> **Core Principle: [The Ground Beneath Us](codex_core_principle_ground.md)**  
+> Acknowledging the land, lineage, and timeless knowledge that shape the foundation of this work.
+
 ## Purpose
 
 The Codex is a collaborative philosophical framework that explores:
