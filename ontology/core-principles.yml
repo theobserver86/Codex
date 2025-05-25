@@ -1,0 +1,26 @@
+# Core Principles Ontology – Hidden Layer
+# Defines metadata and relationships between foundational Codex values
+
+- id: principle_001
+  slug: the-ground-beneath-us
+  title: The Ground Beneath Us
+  category: core_principle
+  status: active
+  visibility: public
+  unlock_conditions: none
+  description: >
+    Acknowledging the land, lineage, and timeless knowledge that shape the foundation of this work.
+  inspired_by:
+    - indigenous_stewardship
+    - ancestral_memory
+    - pattern_awareness
+  relationships:
+    foundational_to:
+      - principle_002  # Placeholder for future entries
+    echoes:
+      - entry_001
+  tags:
+    - land
+    - memory
+    - humility
+    - permission
