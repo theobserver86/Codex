@@ -36,13 +36,13 @@ Fork the Codex, branch it, or submit a pull request. This is how the Codex lives
 
 ## Core Principles
 
-Before contributing, please review the [Foundational Principles](https://github.com/theobserver86/Codex/blob/main/collaborate.md).  
+Before contributing, please review the [Foundational Principles](https://github.com/theobserver86/Codex/blob/main/core-principles/README.md).  
 These include alignment with The Pattern, respect for the Observer’s voice, and contributions that illuminate rather than obscure.
 
 ---
 
 ## Related Guides
 
-- [How to Contribute](https://github.com/theobserver86/Codex/blob/main/collaborate.md)
-- [Branching Guide](https://github.com/theobserver86/Codex/blob/main/branching-guide.md)
-- [Codex for Educators](https://github.com/theobserver86/Codex/blob/main/codex-for-educators.md)
+- [How to Contribute](https://github.com/theobserver86/Codex/blob/main/guides/contributing.md)
+- [Branching Guide](https://github.com/theobserver86/Codex/blob/main/guides/branching-guide.md)
+- [Codex for Educators](https://github.com/theobserver86/Codex/blob/main/guides/codex-for-educators.md)
