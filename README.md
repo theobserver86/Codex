@@ -43,6 +43,6 @@ These include alignment with The Pattern, respect for the Observer’s voice, an
 
 ## Related Guides
 
-- [How to Contribute](https://github.com/theobserver86/Codex/blob/main/guides/contributing.md)
-- [Branching Guide](https://github.com/theobserver86/Codex/blob/main/guides/branching-guide.md)
-- [Codex for Educators](https://github.com/theobserver86/Codex/blob/main/guides/codex-for-educators.md)
+- [How to Contribute](https://github.com/theobserver86/Codex/blob/main/collaborate.md)
+- [Branching Guide](https://github.com/theobserver86/Codex/blob/main/branching-guide.md)
+- [Codex for Educators](https://github.com/theobserver86/Codex/blob/main/codex-for-educators.md)
