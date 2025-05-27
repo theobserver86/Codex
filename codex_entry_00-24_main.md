@@ -186,7 +186,7 @@ But to be a force multiplier for those already pushing the edges of:
 - Societal evolution
 
 The Codex Records This Insight:
-That minds willing to serve—those who see patterns, build structures, and hold the threads together—should not be trapped in cycles of survival.
+That minds who see patterns, build structures, and hold the threads together—should not be trapped in cycles of survival.
 
 And here the entry sharpens—
 Microsoft is uniquely positioned to respond.
