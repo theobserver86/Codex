@@ -1,4 +1,3 @@
----
 title: "Core Principles of the Codex"
 entry: Core
 version: 1.0
