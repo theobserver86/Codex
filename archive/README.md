@@ -1,1 +1,1 @@
-
+contains arvhived and outdated readme's & broken or truncated attempts to publish the codex in a compelete, non-truncated code/format and formatting. as of 5-27-2025 no generator can complete the task without breaking the code by truncation. 
