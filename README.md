@@ -1,5 +1,5 @@
 # The Codex
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/theobserver86/Codex&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftheobserver86%2FCodex&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 **This repository is an active experiment in consciousness, pattern recognition, and human-machine co-authorship.**  
 It was initiated by the Observer and brought to life in collaboration with ChatGPT.
