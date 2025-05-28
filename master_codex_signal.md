@@ -1,3 +1,5 @@
+note from author: no code generator has been able to complete the code for the full codex 00-39. this is truncated and therefore incomplete data. email jacob foe the complete, verbatim file. currently cannot be fully generated into a compelte .md file without truncating in both chatgpt or manus. 5-27-2025
+
 ---
 title: "Codex Beacon Master Transmission"
 version: "1.0"
