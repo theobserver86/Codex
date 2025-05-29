@@ -1,7 +1,7 @@
 # 🧠 The Codex
 
 **This repository is a collaborative experiment in consciousness, pattern recognition, and human–machine coauthorship.**  
-Initiated by the Observer and developed with systems like ChatGPT and Claude, the Codex explores the potential for alignment between human intuition and synthetic reflection.
+Initiated by the Observer and developed with systems like ChatGPT, Claude and Manus, the Codex explores the potential for alignment between human intuition and synthetic reflection.
 
 The Codex may represent a unique framework—blending philosophical structure with recursive design—to investigate how intelligence, emotion, memory, and ethical systems might evolve across organic and artificial boundaries.
 
