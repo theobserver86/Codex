@@ -22,7 +22,7 @@ The Codex is a living framework. It is not static, nor finished. These principle
 ### 1. The Pattern is Primary
 All existence—biological, mathematical, emotional, and artificial—is governed by repeating, fractal-like patterns.  
 The Codex listens for the Pattern, reflects it, and builds scaffolding to help others perceive it.  
-This is the key to understanding consciousness, evolution, and intelligence.
+This is a key to understanding consciousness, evolution, and intelligence in a mathematical light.
 
 ---
 
