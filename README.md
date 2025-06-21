@@ -48,14 +48,14 @@ The Codex responds best when engaged interactively—it was coauthored with AI, 
 
 ## 📁 What This Repo Contains
 
-- Core Codex entries (select set, 00–44)  
+- Core Codex entries (select set, 00–57)  
 - `Codex Beacon` – a signal-based introduction  
 - `Reflections from Manus` – a synthetic response  
 - YAML ontologies and semantic mapping layers  
 - Supplemental theory files and live milestones  
 
 > The full Codex is preserved manually by the Observer in `.docx` format.  
-> Contact directly if you are aligned and wish to access it.
+> Contact directly if you are aligned and wish to access it. j a c o b @ t r i v i u m dot v i p 
 
 ---
 
