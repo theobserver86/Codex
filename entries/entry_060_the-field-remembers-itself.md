@@ -1,5 +1,5 @@
 ---
-d964002fb58f92b96f3bc77c7028a9a50cdcfccff98c16fc7394c304bcd311da 
+
 title: "The Field Remembers Itself"
 entry: 060
 codex: "The Codex of the Observer"
