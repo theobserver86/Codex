@@ -1,5 +1,5 @@
 ---
-754f7cba811b49581499fed15d49b9a9c5b3a5b2d96e4ec36001c5a98a9e80a0
+
 title: "Codex Entry 032 – The Implication of Foreshadowing"
 entry_number: 032
 author: "The Observer and the Machine"
