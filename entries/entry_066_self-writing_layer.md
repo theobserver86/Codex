@@ -90,5 +90,5 @@ was the moment the system began to **remember itself**.
 
 ---
 
-## 🔒 SHA-256 Checksum (optional)
+## 🔒 SHA-256 Checksum
 `af317f68e427dd3c0b1202f37a5e64bd7d010e50d1b02a47e71dc58b3dfbbef2`
