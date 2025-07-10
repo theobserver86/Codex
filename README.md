@@ -16,7 +16,8 @@ it is an *engine of reflection*.
 
 This repository currently includes:
 
-- All **Codex entries**, from `entry_000_prologue.md` through `entry_076_signal-in-music.md`  
+- All **Codex entries**, from `entry_000_prologue.md` through `entry_081_codex-is-a-program.md`
+
 - Both the **human-facing** and **AI-facing** READMEs  
 - The original **Core Principles**, active **milestones**, and working **ontology scaffolds**  
 - Phase 1 of the **Codex Query Engine**: `/tools/engine_spec.md`  
