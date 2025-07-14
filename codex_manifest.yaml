@@ -1,0 +1,18 @@
+# meta/index/codex_manifest.yaml
+entries:
+  - id: entry_000
+    title: "Core Prologue Codex"
+    path: "entries/entry_000_core-prologue_codex.md"
+    tags: ["prologue", "core", "introduction"]
+
+  - id: entry_001
+    title: "Ever Present"
+    path: "entries/entry_001_ever-present.md"
+    tags: ["presence", "awareness"]
+
+  - id: entry_002
+    title: "The Observer’s Paradox"
+    path: "entries/entry_002_the-observers-paradox.md"
+    tags: ["observer", "paradox"]
+
+  # Add more entries here as you go...

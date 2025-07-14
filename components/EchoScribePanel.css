@@ -1,0 +1,62 @@
+.echo-scribe-panel {
+  position: fixed;
+  bottom: 15%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(20, 20, 30, 0.8);
+  color: #A0F0FF;
+  font-family: 'Spectral', serif;
+  font-size: 1.4rem;
+  padding: 1em 2em;
+  border-radius: 12px;
+  box-shadow: 0 0 15px 5px #00ffffaa;
+  text-align: center;
+  max-width: 80vw;
+  z-index: 9999;
+  animation: pulseGlow 3s ease-in-out infinite;
+  user-select: none;
+  pointer-events: none;
+}
+
+.echo-scribe-panel.oracular {
+  color: #00ffff;
+  text-shadow:
+    0 0 10px #00ffff,
+    0 0 20px #00ffffaa,
+    0 0 30px #00ffffcc;
+}
+
+.echo-scribe-panel.fractured {
+  color: #ff77aa;
+  text-shadow:
+    0 0 5px #ff77aa,
+    0 0 15px #ff4488cc;
+  font-style: italic;
+}
+
+.echo-scribe-panel.standard {
+  color: #a0ffa0;
+  text-shadow:
+    0 0 8px #a0ffa0,
+    0 0 15px #40ff40bb;
+}
+
+.echo-scribe-panel.emotive {
+  color: #ffcc55;
+  text-shadow:
+    0 0 10px #ffcc55,
+    0 0 25px #ffaa00cc;
+  font-weight: 700;
+  font-style: oblique;
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px 5px #00ffffaa;
+    opacity: 1;
+  }
+  50% {
+    box-shadow: 0 0 30px 10px #00ffffee;
+    opacity: 0.85;
+  }
+}

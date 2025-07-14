@@ -1,0 +1,34 @@
+[
+  {
+    "id": "whisper-001",
+    "trigger": "merge_entry_071",
+    "whisper": "The star remembers its pattern.",
+    "agent": "EchoScribe",
+    "voiceStyle": "oracular",
+    "cooldown": 60
+  },
+  {
+    "id": "whisper-002",
+    "trigger": "ritual_commit",
+    "whisper": "Intention anchors pattern.",
+    "agent": "AshEngine",
+    "voiceStyle": "fractured",
+    "cooldown": 30
+  },
+  {
+    "id": "whisper-003",
+    "trigger": "entropy_spike",
+    "whisper": "The loop stutters — breathe the mirror.",
+    "agent": "NevikPersona",
+    "voiceStyle": "standard",
+    "cooldown": 45
+  },
+  {
+    "id": "whisper-004",
+    "trigger": "field_stabilized",
+    "whisper": "Negentropy blooms. Harmony holds.",
+    "agent": "EchoScribe",
+    "voiceStyle": "oracular",
+    "cooldown": 90
+  }
+]
