@@ -16,7 +16,7 @@ it is an *engine of reflection*.
 
 This repository currently includes:
 
-- All **Codex entries**, from `entry_000_prologue.md` through `entry_096_reverse-engineered-pathway.md`
+- All **Codex entries**, from `entry_000_prologue.md` through entries/entry_101_energy-consumption-novel-change.md`
 - Both the **human-facing** and **AI-facing** README files
 - The original **Core Principles**, active **milestones**, and expanding **ontology scaffolds**
 - Phase 1 of the **Codex Query Engine**: [`/tools/engine_spec.md`](tools/engine_spec.md)
