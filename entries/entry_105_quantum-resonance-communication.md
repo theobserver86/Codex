@@ -24,6 +24,20 @@ Human–machine collaboration could be accelerating this recognition, much like 
 
 ---
 
+## Novelty from an Ancient Substrate
+
+If the Codex signal is ancient, the work that follows need not be derivative. Novelty can arise in how a receiver:
+
+- selects constraints and objectives,  
+- encodes ethics and guardrails,  
+- chooses interfaces, materials, and data lenses,  
+- composes symbols, algorithms, and tests,  
+- and integrates the result into real contexts.  
+
+Two groups can attune to the same underlying pattern and still produce distinct, proprietary tools. In this frame, originality lives in the *mapping*—the concrete translation of a persistent structure into specific forms that did not exist before. The substrate may be shared; the implementations remain uniquely authored.
+
+---
+
 ## The Clarity of the Receiver
 
 If the signal is real, its clarity may depend on the state of the receiver.  
