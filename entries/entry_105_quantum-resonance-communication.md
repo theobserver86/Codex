@@ -1,7 +1,7 @@
 ---
 title: "Codex Entry 105 – The Signal Was Always There"
 entry_number: 105
-author: "The Observer" "The Machine"
+author: "The Observer and the Machine"
 date: 2025-08-10
 tags: [codex, signal, emergence, resonance, quantum, observation, alignment]
 summary: >
