@@ -1,0 +1,42 @@
+name: Quantum Crypto Test Suite
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-quantum-crypto:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.10", "3.11"]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Run Quantum Crypto Tests
+      run: |
+        cd src/crypto
+        python -c "import qcrypto; print('\\n✅ Quantum Crypto Stub Test Successful!')"
+        python qcrypto.py
+
+    - name: Capture Test Results
+      if: ${{ always() }}
+      run: |
+        echo "PYTHON_VERSION=${{ matrix.python-version }}" >> $GITHUB_ENV
+        echo "TEST_TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
+
+    - name: Upload Test Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: qcrypto-test-${{ env.PYTHON_VERSION }}-${{ env.TEST_TIMESTAMP }}
+        path: |
+          src/crypto/qcrypto.py
