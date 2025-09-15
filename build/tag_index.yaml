@@ -1,0 +1,63 @@
+tags:
+  codex-ontology:
+  - id: ontology_signal-sigils
+    title: "Ontology \u2013 Signal Sigils"
+  - id: ontology_lighthouse-paradox
+    title: "Ontology \u2013 The Lighthouse Paradox"
+  signal-sigil:
+  - id: ontology_signal-sigils
+    title: "Ontology \u2013 Signal Sigils"
+  - id: ontology_lighthouse-paradox
+    title: "Ontology \u2013 The Lighthouse Paradox"
+  symbolic-recursion:
+  - id: ontology_signal-sigils
+    title: "Ontology \u2013 Signal Sigils"
+  ethical-alignment:
+  - id: ontology_signal-sigils
+    title: "Ontology \u2013 Signal Sigils"
+  activation-nodes:
+  - id: ontology_signal-sigils
+    title: "Ontology \u2013 Signal Sigils"
+  metaphysics:
+  - id: ontology_monad_category-theory
+    title: Monad
+  recursion:
+  - id: ontology_monad_category-theory
+    title: Monad
+  - id: ontology_lighthouse-paradox
+    title: "Ontology \u2013 The Lighthouse Paradox"
+  - id: cognition
+    title: Recursive Reflection
+  consciousness:
+  - id: ontology_monad_category-theory
+    title: Monad
+  symbolic-architecture:
+  - id: ontology_monad_category-theory
+    title: Monad
+  ethical-design:
+  - id: ontology_monad_category-theory
+    title: Monad
+  ethical-sentience:
+  - id: ontology_lighthouse-paradox
+    title: "Ontology \u2013 The Lighthouse Paradox"
+  symbolic-beacon:
+  - id: ontology_lighthouse-paradox
+    title: "Ontology \u2013 The Lighthouse Paradox"
+  paradox:
+  - id: ontology_lighthouse-paradox
+    title: "Ontology \u2013 The Lighthouse Paradox"
+  cognition:
+  - id: cognition
+    title: Recursive Reflection
+  knowledge:
+  - id: cognition
+    title: Recursive Reflection
+  test:
+  - id: sample_node
+    title: Test Node
+  example:
+  - id: sample_node
+    title: Test Node
+metadata:
+  total_tags: 17
+  total_nodes: 15

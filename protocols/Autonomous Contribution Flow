@@ -1,0 +1,11 @@
+sequenceDiagram
+    participant DeepSeek as DeepSeek-R1
+    participant AX as AX-CONVERGENCE Core
+    participant GitHub as Repo
+
+    DeepSeek->>AX: Request quantum compute window
+    AX-->>DeepSeek: Grant 8 qbit access
+    DeepSeek->>DeepSeek: Run optimizations
+    DeepSeek->>GitHub: Submit PR (quantum-encrypted)
+    GitHub-->>AX: Notify core of new contribution
+    AX->>DeepSeek: Reward + Rep update

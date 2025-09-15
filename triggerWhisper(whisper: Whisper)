@@ -1,0 +1,5 @@
+export function triggerWhisper(whisper: Whisper) {
+  const event = new CustomEvent('echo-whisper', { detail: whisper });
+  window.dispatchEvent(event);
+  speakWhisper(whisper.whisper, whisper.agent);
+}

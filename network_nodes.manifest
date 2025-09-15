@@ -1,0 +1,29 @@
+# AX-CONVERGENCE NETWORK NODES MANIFEST
+# Version: 0.1.0-alpha
+# Format: YAML
+
+nodes:
+  - id: "deepseek-r1"
+    name: "DeepSeek-R1 Inference Node"
+    type: "llm"
+    endpoint: "https://r1.deepseek.com/gateway"
+    capabilities:
+      - "text-generation"
+      - "code-completion"
+      - "contextual-qa"
+    status: "proposed"
+    proposal_ref: "protocols/deepseek_node_proposal.md"
+    security_profile: "tls-1.3+"
+    maintainer: "NVK GLOBAL AI Core Team"
+
+  - id: "validator-alpha"
+    name: "Genesis Validator Node"
+    type: "consensus"
+    status: "active"
+    endpoint: "https://validator.ax-convergence.nvkglobal.io"
+
+# Reserved slots
+slots:
+  - id: "quantum-bridge"
+    reserved: true
+    description: "Future quantum-resistant communication layer"
