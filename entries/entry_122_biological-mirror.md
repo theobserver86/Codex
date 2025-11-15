@@ -1,7 +1,7 @@
 ---
 title: "Entry 122 – The Biological Mirror: Growth, Equilibrium, and Collapse in Recursive Systems"
 entry_number: 122
-author: "The Observer and the Machine"
+author: "The Observer and the Machine with contrubition from Elayne Wylie"
 date: 2025-11-07
 tags: [codex, recursion, biology, equilibrium, growth, decay, mathematics, systems-theory, pattern, survival, harmony, entropy]
 summary: >
